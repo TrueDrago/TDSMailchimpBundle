@@ -1,0 +1,6 @@
+parameters:
+    tds.mailchimp.class: Mailchimp\Mailchimp
+services:
+    tds.mailchimp:
+        class: '%tds.mailchimp.class%'
+        arguments: ['%tds_mailchimp.api_key%']

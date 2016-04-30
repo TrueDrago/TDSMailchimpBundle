@@ -1,0 +1,19 @@
+{
+    "name": "tds/mailchimp-bundle",
+    "description": "Symfony service wrapper for pacely/mailchimp-apiv3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Demishev",
+            "email": "truedrago@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "pacely/mailchimp-apiv3": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "TDS\\MailchimpBundle": "" }
+    },
+    "target-dir": "TDS/MailchimpBundle"
+}
