@@ -39,7 +39,7 @@ Enable the bundle in the kernel:
 
 **Step 4: Read the docs**
 
-    [Investigate the main bundle documentation](https://github.com/pacely/mailchimp-api-v3)
+[Investigate the main bundle documentation](https://github.com/pacely/mailchimp-api-v3)
 
 License
 -------
