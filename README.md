@@ -27,7 +27,7 @@ Enable the bundle in the kernel:
     {
         $bundles = array(
             // ...
-            new FOS\UserBundle\FOSUserBundle(),
+            new TDS\MailchimpBundle\MailchimpBundle(),
             // ...
         );
     }
